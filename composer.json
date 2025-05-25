@@ -1,5 +1,5 @@
 {
-    "name": "miko/sorted-linked-list",
+    "name": "mf-miko/sorted-linked-list",
     "description": "A simple type-safe sorted singly linked list for int or string values in PHP.",
     "type": "library",
     "license": "MIT",
