@@ -20,7 +20,7 @@ A simple, type-safe, sorted singly linked list implementation in PHP supporting 
 You can include this class in your project via Composer:
 
 ```bash
-composer require miko/sorted-linked-list
+composer require mf-miko/sorted-linked-list
 ```
 
 ## Usage
